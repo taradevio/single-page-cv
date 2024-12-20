@@ -40,6 +40,9 @@ Consider adding the following features to enhance the project:
 
 - Responsiveness for mobile devices using CSS media queries.
 
+## Project URL
+[Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
+
 ## Icon Reference
 - [Github](https://www.flaticon.com/free-icons/github)
 - [Linkedin](https://www.flaticon.com/free-icons/linkedin)
